@@ -1,5 +1,4 @@
-cd Installer
-bash install.sh
+echo "Installed Main_Script"
 cd 
 cd ~/storage/downloads/main.sh
 
