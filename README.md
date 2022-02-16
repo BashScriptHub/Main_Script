@@ -5,7 +5,7 @@
 They are components of the main script. /Installer installs the script.
 /Main runs the script.
 /GitHub is used to push commits to GitHub! As this is in active Devlopement!
-/Testing is used for my own personal use. As I have to actively test it and I am coding on mobile that's why this will install it and then run it...
+/Testing is used for my own personal use. As I have to actively test it and I am coding on mobile that's why this will install it and then run it. I do not recommend using start.sh in /Testing folder..
 https://GitHub.com/BashScriptHub/Docs coming soon
 
 # Installing
