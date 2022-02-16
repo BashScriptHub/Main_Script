@@ -1,1 +1,3 @@
-PlaceHolder Text
+cd ..
+cd /Main
+bash main.sh
